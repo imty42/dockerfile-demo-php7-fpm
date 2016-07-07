@@ -1,6 +1,6 @@
 # php7-fpm-demo
 
-This a php7-fpm demo, i've alreay try to use it.
+This a php7-fpm demo, i've alreay tried to use it.
 
 
 ## TODO
